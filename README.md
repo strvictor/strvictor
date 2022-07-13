@@ -1,9 +1,9 @@
 ## ✨ Olá me chamo Paulo Victor, seja bem-vindo(a) ao meu perfil! ✨
 
-* Cursando Engenharia de Software 😍
-* Participando do bootcamp fullstack da Dio 😉
-* Aprendendo ferramentas de S.I com python 😎
-* Desvendando os mistérios da linguagem C 😜
+* Cursando Engenharia de Software  😍
+* Participando do bootcamp fullstack da Dio  😉
+* Aprendendo ferramentas de S.I com python  😎
+* Desvendando os mistérios da linguagem C  😜 
 
 ##
 
