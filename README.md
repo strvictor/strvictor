@@ -68,7 +68,7 @@
 ## 🤝 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/strvictor/" target="_blank">
+  <a href="https://www.linkedin.com/in/strvictor/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:vicctor1009@gmail.com">
