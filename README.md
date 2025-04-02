@@ -53,10 +53,9 @@
 </p>
 
 ---
-
-Snake animation (opcional). É preciso configurar um workflow para isso funcionar. 
+ 
 <p align="center">
-  <img src="https://github.com/strvictor/strvictor/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/strvictor/strvictor/blob/output/github-contribution-grid-snake.svg?palette=dark" alt="Snake animation" />
 </p>
 
 ---
