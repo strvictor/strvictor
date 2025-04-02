@@ -60,7 +60,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://github.com/strvictor/strvictor/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/strvictor/strvictor/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
