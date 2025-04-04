@@ -11,7 +11,7 @@
 <!-- Sobre mim -->
 ## Opa, eu sou o Paulo Victor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- Desenvolvedor **Python/Django**, focado em **back-end**  
+- Desenvolvedor backend **Python/Django**
 - Curto resolver problemas e criar automações inovadoras  
 - De vez em quando brinco com React no front  
 - Morando no Pará, tomando açaí e codando sem parar  
