@@ -39,9 +39,7 @@
 ## 📌 Meus Projetos em Destaque
 
 - [**AutoSync**](https://github.com/strvictor/AutoSync) - Projeto que facilita a gestão de oficinas mecânicas 
-- [**Sistema de movimentação de Hosts**](#) - Gerenciador de hosts com Django  
-- [**Dashboard - Automations (Python + PowerBi)**](#) - Analytics e visualização de dados  
-- [**Meu primeiro Bot**](#) - Explorando o mundo dos bots  
+- [**Sistema de monitoramento de Hosts**](https://mnt-hosts.dev-strvictor.online/login) - Gerenciador de hosts com Django   
 
 ---
 
