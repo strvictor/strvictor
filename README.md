@@ -38,7 +38,7 @@
 ## 📌 Meus Projetos em Destaque
 
 - [**AutoSync**](https://github.com/strvictor/AutoSync) - Projeto que facilita a gestão de oficinas mecânicas 
-- [**Sistema de monitoramento de Hosts**]([https://mnt-hosts.dev-strvictor.online/login](https://github.com/strvictor/Sistema_de_monitoramento_de_Hosts)) - Gerenciador de hosts com Django   
+- [**Sistema de monitoramento de Hosts**]([https://mnt-hosts.dev-strvictor.online/login](https://github.com/strvictor/Sistema_de_monitoramento_de_Hosts) - Gerenciador de hosts com Django   
 
 ---
 
